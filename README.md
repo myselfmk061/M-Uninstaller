@@ -61,7 +61,19 @@
 
 ## 📸 Screenshots
 
-g
+<img src="https://raw.githubusercontent.com/myselfmk061/M-Uninstaller/refs/heads/main/screenshots/m1.png">
+
+
+<img src="https://raw.githubusercontent.com/myselfmk061/M-Uninstaller/b34d843fee690ad5c0fd467bdc438b72df2ef167/screenshots/m2.png">
+
+
+<img src="https://raw.githubusercontent.com/myselfmk061/M-Uninstaller/b34d843fee690ad5c0fd467bdc438b72df2ef167/screenshots/m3.png">
+
+
+<img src="https://raw.githubusercontent.com/myselfmk061/M-Uninstaller/b34d843fee690ad5c0fd467bdc438b72df2ef167/screenshots/m4.png">
+
+
+<img src="https://raw.githubusercontent.com/myselfmk061/M-Uninstaller/b34d843fee690ad5c0fd467bdc438b72df2ef167/screenshots/m5.png">
 
 
 ---
