@@ -61,15 +61,7 @@
 
 ## 📸 Screenshots
 
-https://github.com/myselfmk061/M-Uninstaller/blob/main/screenshots/m1.png
-
-https://github.com/myselfmk061/M-Uninstaller/blob/main/screenshots/m2.png
-
-https://github.com/myselfmk061/M-Uninstaller/blob/main/screenshots/m3.png
-
-https://github.com/myselfmk061/M-Uninstaller/blob/main/screenshots/m4.png
-
-https://github.com/myselfmk061/M-Uninstaller/blob/main/screenshots/m5.png
+g
 
 
 ---
